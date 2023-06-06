@@ -1,0 +1,22 @@
+body{background-color: blueviolet;
+}
+
+h1{font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.me{
+    border-radius: 10000px;
+    width: 250px;
+    height: 250px
+}
+.second{
+    font-style: initial;
+    text-align: center;
+    font-size: 4mm;
+    padding: 10px;
+    margin: 10px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: aliceblue;
+}
